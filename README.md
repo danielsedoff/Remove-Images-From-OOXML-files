@@ -10,4 +10,5 @@ See https://www.7-zip.org/ if you do not have it installed.
 - If everything goes well, the new DOCX file will appear in the same directory as the original one.
 
 The new DOCX file will have all its JPEG, PNG and EMF files replaced with gray boxes.
+
 *Note: OLE binary embeddings will not go.*
